@@ -14,12 +14,10 @@
 
 ## 🌱 최근 푼 문제
 
-- [x] [문제1](https://www.codetree.com/practice/algorithms/1225)
-- [x] [문제2](https://www.codetree.com/practice/algorithms/567)
-- [x] [문제3](https://www.codetree.com/practice/algorithms/234)
+- [x] [문제1](https://www.codetree.ai/missions)
+- [x] [문제2](https://www.codetree.ai/missions)
+- [x] [문제3](https://www.codetree.ai/missions)
 ---
-
-코드 풀이 및 설명은 [여기]([https://github.com/yourusername/codetree-solutions](https://github.com/cutyqueen/codetree-TILs))에서 확인할 수 있습니다.
 
 ## Get in Touch
 - GitHub: [cutyqueen](https://github.com/yourusername)
