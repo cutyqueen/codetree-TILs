@@ -10,7 +10,7 @@ public class Main {
         int b1 = sc.nextInt();
         String b2 = sc.next();
 
-        if(a1>=19&&b1>=19 || a2=="M"&&b2=="M") {
+        if(a1>=19&&a2.equals("M") || b1>=19&&b2.equals("M")) {
             System.out.print("1");
         } else {
             System.out.print("0");
