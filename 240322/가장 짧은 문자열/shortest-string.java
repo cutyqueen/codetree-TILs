@@ -23,7 +23,7 @@ public class Main {
 
         } else if(c>a&& a>b) {
             System.out.print(c-b);
-        } else if(c>b&& b>a) {
+        } else{
             System.out.print(c-a);
         }
         
